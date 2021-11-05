@@ -1,3 +1,3 @@
-module github.con/s-beats/cli
+module github.com/s-beats/cli
 
 go 1.17
